@@ -3,10 +3,11 @@
 Electrical Engineering student interested in **embedded systems**, **digital design**, and **hardware/software integration**.
 
 ## 🛠 Skills
-- **Languages:** C, VHDL, LabVIEW
+- **Languages:** C, VHDL, LabVIEW, MATLAB
 - **Embedded:** AVR / Arduino, PWM, ADC, SPI, UART, I2C, timers
 - **Hardware:** Analog & digital circuit design, discrete components, feedback control
-- **Tools:** Microchip Studio, LabVIEW, Git
+- **Tools:** Microchip Studio, VS Code, Maple, Git
+- **Currently learning:** Python
 
 ## 🚀 Projects
 
